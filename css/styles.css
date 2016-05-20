@@ -1,0 +1,39 @@
+.content{
+	width: 510px;
+	height: 750px;
+	padding-top: 54px;
+	margin: auto;
+	box-shadow: 0px 0px 10px 0px rgba(100, 100, 100, 1);
+}
+h1{
+	font-size: 20px;
+	text-align: center;
+}
+img{
+	width: 250px;
+	height: 200px;
+}
+.img{
+	text-align: center;
+}
+.border{
+	border: none; 
+	background-color: black; 
+    color: black; 
+    height: 0.5px; 
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+p{
+	padding-left: 65px;
+	font-size: 15px;
+	text-align: left;
+}
+li{
+	margin-left: 65px;
+	font-size: 15px;
+	text-align: left;
+}
